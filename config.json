@@ -1,0 +1,7 @@
+{
+  "speech_key": "BiMKxvdywvqlSfEFfk4ocXmkgkFaz6uzPUdsZIojsJMaaYSa2M3MJQQJ99BGACYeBjFXJ3w3AAAYACOG0b3q",
+  "speech_region": "japaneast",
+  "openai_key": "CtS7bFZa9Ryr65v5aRZVrhRRABLSV8F1ioCcJyz3VjtSVU5WWSF7JQQJ99BGACHYHv6XJ3w3AAAAACOGbede",
+  "openai_endpoint": "https://project52931574-resource.openai.azure.com/",
+  "deployment_id": "gpt-4"
+}
