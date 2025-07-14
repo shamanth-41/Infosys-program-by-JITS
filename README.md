@@ -3,11 +3,13 @@
 
 project demo link : https://drive.google.com/file/d/1C-NjM4t2sopg6XzbeEATcZGVLpFSNzvx/view?usp=sharing
 
-<img width="865" height="345" alt="Screenshot 2025-07-14 133955" src="https://github.com/user-attachments/assets/94bc223a-773d-4dbb-8f2f-25d1d92eed2f" />
-<img width="926" height="286" alt="Screenshot 2025-07-14 134923" src="https://github.com/user-attachments/assets/e13d62f4-beff-4293-ab0a-c008853e02e4" />
-<img width="1552" height="641" alt="Screenshot 2025-07-14 133135" src="https://github.com/user-attachments/assets/8b4736d8-4c03-477f-822b-01222c70df18" />
+
 🎙️ AI Interview Readiness Coach
 An interactive AI-powered mock interview platform built with Streamlit and Azure AI Services, designed to simulate real interview scenarios and provide real-time speech-to-text transcription and automated feedback.
+![WhatsApp Image 2025-07-14 at 14 20 57_5248e26b](https://github.com/user-attachments/assets/869d0bad-026d-4174-814d-d91197d10476)
+![WhatsApp Image 2025-07-14 at 14 20 58_2ebadc2c](https://github.com/user-attachments/assets/349d7713-f3e3-4b70-afee-2a25c19a0c8b)
+![WhatsApp Image 2025-07-14 at 14 20 58_384d21b1](https://github.com/user-attachments/assets/c43b8914-4433-4819-a418-07805f4c42b4)
+![WhatsApp Image 2025-07-14 at 14 20 56_d4c5b469](https://github.com/user-attachments/assets/73ed9e57-6fb3-448f-a4a9-c41d7979f1f9)
 
 🚀 Features
 ✅ Category Selection: Choose from Technical, Aptitude, or Non-Technical interview rounds
